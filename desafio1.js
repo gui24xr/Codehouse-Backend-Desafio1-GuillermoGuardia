@@ -2,7 +2,7 @@
 /*  CODERHOUSE - CURSO BACKEND - COMISION 50045
 /*  DESAFIO: 1: Clases con ECMAScript y ECMAScript avanzado
 /*  ALUMNO: Guillermo Guardia
-/*  FECHA: 09-01-2024
+/*  FECHA: 14-01-2024
 /*
 /*-------------------------------------------------------------------------------------------------------------------*/
 
